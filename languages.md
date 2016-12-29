@@ -1,3 +1,5 @@
-# kaggle-languages
+# The Death of Language
 
-Test
+"The wisdom of humanity is coded in language", Lyle Campbell, an American scholar and linguist known for his work on indegenous American languages hints at a problem much graver than most would care to admit. He goes on to state that when a language dies, so does the knowledge it carries. 
+
+There is a Portugese word *saudade*, a term commonly used in Galician literature and heard in the music of Brazil. What strikes me the most about *saudade* and many other such words is that they are untranslatable to other languages, yet so undeniable potent. The concept of *saudade* portrays a meloncholy nostalgia for something that perhaps has not even happened. Take for example *mamihlapinatapai* that is derived from the Yaghan language of Tierra del Fuego and known to be one of the hardest words to translate. It refers to an expressive and meaningful silence, the look that is shared across the table by two people where each understands the other and is in agreement with what is being expressed.
